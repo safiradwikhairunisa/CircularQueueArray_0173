@@ -119,5 +119,5 @@ class queues
 
 int main()
 {
-    
+
 }
