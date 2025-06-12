@@ -7,4 +7,11 @@ class queues
     static const int max = 5;
     int FRONT, REAR;
     int queue_array[5];
+
+    public:
+    queues()
+    {
+        FRONT = -1;
+        REAR = -1;
+    }
 }
